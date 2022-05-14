@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UGG Discord Bot", "UGG Discord Bot\UGG Discord Bot.csproj", "{AB0350F3-6419-4B2C-ABF8-1D7F7133A125}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB0350F3-6419-4B2C-ABF8-1D7F7133A125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0350F3-6419-4B2C-ABF8-1D7F7133A125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0350F3-6419-4B2C-ABF8-1D7F7133A125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0350F3-6419-4B2C-ABF8-1D7F7133A125}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17A27F48-CAE6-42B1-9936-7B70263D8383}
+	EndGlobalSection
+EndGlobal
